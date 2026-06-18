@@ -1,0 +1,7 @@
+LinearModelTest.CalculatesCorrectValue 1 0.0151128
+LinearModelTest.ZeroInput 1 0.0084774
+LinearModelTest.ZeroTemperature 1 0.0102316
+NonlinearModelTest.CalculatesCorrectValue 1 0.0091394
+NonlinearModelTest.ZeroPreviousTemperature 1 0.0085213
+NonlinearModelTest.ZeroInput 1 0.0089531
+---

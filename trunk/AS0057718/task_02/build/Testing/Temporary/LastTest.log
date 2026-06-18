@@ -1,0 +1,165 @@
+Start testing: Jun 17 17:05 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/6 Testing: LinearModelTest.CalculatesCorrectValue
+1/6 Test: LinearModelTest.CalculatesCorrectValue
+Command: "D:/projects/tmay/AS00577-22/trunk/AS0057722/task_02/build/test_model.exe" "--gtest_filter=LinearModelTest.CalculatesCorrectValue" "--gtest_also_run_disabled_tests"
+Directory: D:/projects/tmay/AS00577-22/trunk/AS0057722/task_02/build
+"LinearModelTest.CalculatesCorrectValue" start time: Jun 17 17:05 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\projects\tmay\AS00577-22\trunk\AS0057722\task_02\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = LinearModelTest.CalculatesCorrectValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinearModelTest
+[ RUN      ] LinearModelTest.CalculatesCorrectValue
+[       OK ] LinearModelTest.CalculatesCorrectValue (0 ms)
+[----------] 1 test from LinearModelTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"LinearModelTest.CalculatesCorrectValue" end time: Jun 17 17:05 RTZ 2 (çèìà)
+"LinearModelTest.CalculatesCorrectValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: LinearModelTest.ZeroInput
+2/6 Test: LinearModelTest.ZeroInput
+Command: "D:/projects/tmay/AS00577-22/trunk/AS0057722/task_02/build/test_model.exe" "--gtest_filter=LinearModelTest.ZeroInput" "--gtest_also_run_disabled_tests"
+Directory: D:/projects/tmay/AS00577-22/trunk/AS0057722/task_02/build
+"LinearModelTest.ZeroInput" start time: Jun 17 17:05 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\projects\tmay\AS00577-22\trunk\AS0057722\task_02\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = LinearModelTest.ZeroInput
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinearModelTest
+[ RUN      ] LinearModelTest.ZeroInput
+[       OK ] LinearModelTest.ZeroInput (0 ms)
+[----------] 1 test from LinearModelTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinearModelTest.ZeroInput" end time: Jun 17 17:05 RTZ 2 (çèìà)
+"LinearModelTest.ZeroInput" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: LinearModelTest.ZeroTemperature
+3/6 Test: LinearModelTest.ZeroTemperature
+Command: "D:/projects/tmay/AS00577-22/trunk/AS0057722/task_02/build/test_model.exe" "--gtest_filter=LinearModelTest.ZeroTemperature" "--gtest_also_run_disabled_tests"
+Directory: D:/projects/tmay/AS00577-22/trunk/AS0057722/task_02/build
+"LinearModelTest.ZeroTemperature" start time: Jun 17 17:05 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\projects\tmay\AS00577-22\trunk\AS0057722\task_02\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = LinearModelTest.ZeroTemperature
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinearModelTest
+[ RUN      ] LinearModelTest.ZeroTemperature
+[       OK ] LinearModelTest.ZeroTemperature (0 ms)
+[----------] 1 test from LinearModelTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinearModelTest.ZeroTemperature" end time: Jun 17 17:05 RTZ 2 (çèìà)
+"LinearModelTest.ZeroTemperature" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: NonlinearModelTest.CalculatesCorrectValue
+4/6 Test: NonlinearModelTest.CalculatesCorrectValue
+Command: "D:/projects/tmay/AS00577-22/trunk/AS0057722/task_02/build/test_model.exe" "--gtest_filter=NonlinearModelTest.CalculatesCorrectValue" "--gtest_also_run_disabled_tests"
+Directory: D:/projects/tmay/AS00577-22/trunk/AS0057722/task_02/build
+"NonlinearModelTest.CalculatesCorrectValue" start time: Jun 17 17:05 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\projects\tmay\AS00577-22\trunk\AS0057722\task_02\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = NonlinearModelTest.CalculatesCorrectValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonlinearModelTest
+[ RUN      ] NonlinearModelTest.CalculatesCorrectValue
+[       OK ] NonlinearModelTest.CalculatesCorrectValue (0 ms)
+[----------] 1 test from NonlinearModelTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonlinearModelTest.CalculatesCorrectValue" end time: Jun 17 17:05 RTZ 2 (çèìà)
+"NonlinearModelTest.CalculatesCorrectValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: NonlinearModelTest.ZeroPreviousTemperature
+5/6 Test: NonlinearModelTest.ZeroPreviousTemperature
+Command: "D:/projects/tmay/AS00577-22/trunk/AS0057722/task_02/build/test_model.exe" "--gtest_filter=NonlinearModelTest.ZeroPreviousTemperature" "--gtest_also_run_disabled_tests"
+Directory: D:/projects/tmay/AS00577-22/trunk/AS0057722/task_02/build
+"NonlinearModelTest.ZeroPreviousTemperature" start time: Jun 17 17:05 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\projects\tmay\AS00577-22\trunk\AS0057722\task_02\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = NonlinearModelTest.ZeroPreviousTemperature
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonlinearModelTest
+[ RUN      ] NonlinearModelTest.ZeroPreviousTemperature
+[       OK ] NonlinearModelTest.ZeroPreviousTemperature (0 ms)
+[----------] 1 test from NonlinearModelTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonlinearModelTest.ZeroPreviousTemperature" end time: Jun 17 17:05 RTZ 2 (çèìà)
+"NonlinearModelTest.ZeroPreviousTemperature" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: NonlinearModelTest.ZeroInput
+6/6 Test: NonlinearModelTest.ZeroInput
+Command: "D:/projects/tmay/AS00577-22/trunk/AS0057722/task_02/build/test_model.exe" "--gtest_filter=NonlinearModelTest.ZeroInput" "--gtest_also_run_disabled_tests"
+Directory: D:/projects/tmay/AS00577-22/trunk/AS0057722/task_02/build
+"NonlinearModelTest.ZeroInput" start time: Jun 17 17:05 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\projects\tmay\AS00577-22\trunk\AS0057722\task_02\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = NonlinearModelTest.ZeroInput
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonlinearModelTest
+[ RUN      ] NonlinearModelTest.ZeroInput
+[       OK ] NonlinearModelTest.ZeroInput (0 ms)
+[----------] 1 test from NonlinearModelTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonlinearModelTest.ZeroInput" end time: Jun 17 17:05 RTZ 2 (çèìà)
+"NonlinearModelTest.ZeroInput" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 17 17:05 RTZ 2 (çèìà)
