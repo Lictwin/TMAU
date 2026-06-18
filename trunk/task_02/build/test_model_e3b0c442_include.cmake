@@ -1,0 +1,5 @@
+if(EXISTS "D:/projects/tmay/AS00577-22/trunk/AS0057722/task_02/build/test_model_e3b0c442_tests.cmake")
+  include("D:/projects/tmay/AS00577-22/trunk/AS0057722/task_02/build/test_model_e3b0c442_tests.cmake")
+else()
+  add_test(test_model_NOT_BUILT test_model_NOT_BUILT)
+endif()
