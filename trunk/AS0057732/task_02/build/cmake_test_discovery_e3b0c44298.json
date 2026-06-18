@@ -1,0 +1,48 @@
+{
+  "tests": 6,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "LinearModelTest",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "CalculatesCorrectValue",
+          "file": "D:\\projects\\tmay\\AS00577-22\\trunk\\AS0057722\\task_02\\test\\test_model.cpp",
+          "line": 5
+        },
+        {
+          "name": "ZeroInput",
+          "file": "D:\\projects\\tmay\\AS00577-22\\trunk\\AS0057722\\task_02\\test\\test_model.cpp",
+          "line": 10
+        },
+        {
+          "name": "ZeroTemperature",
+          "file": "D:\\projects\\tmay\\AS00577-22\\trunk\\AS0057722\\task_02\\test\\test_model.cpp",
+          "line": 15
+        }
+      ]
+    },
+    {
+      "name": "NonlinearModelTest",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "CalculatesCorrectValue",
+          "file": "D:\\projects\\tmay\\AS00577-22\\trunk\\AS0057722\\task_02\\test\\test_model.cpp",
+          "line": 20
+        },
+        {
+          "name": "ZeroPreviousTemperature",
+          "file": "D:\\projects\\tmay\\AS00577-22\\trunk\\AS0057722\\task_02\\test\\test_model.cpp",
+          "line": 27
+        },
+        {
+          "name": "ZeroInput",
+          "file": "D:\\projects\\tmay\\AS00577-22\\trunk\\AS0057722\\task_02\\test\\test_model.cpp",
+          "line": 32
+        }
+      ]
+    }
+  ]
+}
