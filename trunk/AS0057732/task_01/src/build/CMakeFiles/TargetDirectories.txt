@@ -1,0 +1,3 @@
+D:/projects/tmay/AS00577-22/trunk/AS0057722/task_01/src/build/CMakeFiles/task_01.dir
+D:/projects/tmay/AS00577-22/trunk/AS0057722/task_01/src/build/CMakeFiles/edit_cache.dir
+D:/projects/tmay/AS00577-22/trunk/AS0057722/task_01/src/build/CMakeFiles/rebuild_cache.dir
